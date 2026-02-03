@@ -7,3 +7,9 @@ function sumar(a, b) {
 let resultado = sumar(a,b);
 
 console.log(resultado);
+
+console.log("compadrito la monda ");
+
+/*
+hola como estas este es mi primer comentario en js 
+*/
