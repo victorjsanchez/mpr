@@ -1,0 +1,5 @@
+/home/victor0419/mpr/obj/Debug/net8.0/mpr.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor0419/mpr/obj/Debug/net8.0/mpr.AssemblyInfoInputs.cache
+/home/victor0419/mpr/obj/Debug/net8.0/mpr.AssemblyInfo.cs
+/home/victor0419/mpr/obj/Debug/net8.0/mpr.csproj.CoreCompileInputs.cache
+/home/victor0419/mpr/obj/Debug/net8.0/mpr.sourcelink.json

@@ -1,0 +1,15 @@
+/home/victor0419/mpr/Proyecto_01/probando/bin/Debug/net8.0/probando
+/home/victor0419/mpr/Proyecto_01/probando/bin/Debug/net8.0/probando.deps.json
+/home/victor0419/mpr/Proyecto_01/probando/bin/Debug/net8.0/probando.runtimeconfig.json
+/home/victor0419/mpr/Proyecto_01/probando/bin/Debug/net8.0/probando.dll
+/home/victor0419/mpr/Proyecto_01/probando/bin/Debug/net8.0/probando.pdb
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/probando.GeneratedMSBuildEditorConfig.editorconfig
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/probando.AssemblyInfoInputs.cache
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/probando.AssemblyInfo.cs
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/probando.csproj.CoreCompileInputs.cache
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/probando.sourcelink.json
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/probando.dll
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/refint/probando.dll
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/probando.pdb
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/probando.genruntimeconfig.cache
+/home/victor0419/mpr/Proyecto_01/probando/obj/Debug/net8.0/ref/probando.dll
