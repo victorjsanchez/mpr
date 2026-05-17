@@ -1,9 +1,8 @@
-## 📌 Descripción
+# 📌 Descripción
+
 ¿Qué hace este PR?
 
 ## 🔄 Cambios realizados
-- 
-- 
 
 ## 🧪 Pruebas
 - [ ] Tests locales
